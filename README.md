@@ -1,7 +1,6 @@
 # Unity Homework
 ## Eenviroment
-Unity in Unity Editor <br>
-C# in Visual Studio <br>
+Recommended run on Windows 10<br>
 
 ## How to play game
 
